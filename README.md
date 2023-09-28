@@ -9,3 +9,4 @@ Daily check-in
 
 Daily check-in
 
+Your mint of BLOCKS #4585950 was successful!
